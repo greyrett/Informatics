@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HomeTask1\\x64\\Debug\\HomeTask1.obj",
+            "outputs": [
+                "HomeTask1\\x64\\Debug\\HomeTask1.cpp.obj.dt.module.json",
+                "HomeTask1\\x64\\Debug\\HomeTask1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
